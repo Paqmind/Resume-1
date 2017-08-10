@@ -25,9 +25,9 @@
 ### on English language    
 ## Header  
   * ### Animation of constellations  
-  *### Dont move with screen(no feature)    
-  *### Right unfolding menu with animation  
-  *### It consists of links leading to fragments / sections of content  
+  * ### Dont move with screen(no feature)    
+  * ### Right unfolding menu with animation  
+  * ### It consists of links leading to fragments / sections of content  
 ## Content  
   * ### Collection of icons with animation  
   * ### Collection of tags  
