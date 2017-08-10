@@ -1,8 +1,8 @@
 # Resume
 
 **Category:** SPA<br/>
-**Tools:** ReactJS + NodeJS
-**Style:** Google Matherial UI
+**Tools:** ReactJS + NodeJS<br/>
+**Style:** Google Matherial UI<br/>
 
 ## Pages
 
