@@ -1,11 +1,11 @@
-# Resume-page Structure based on React+Node.js  
-### on English language    
-## Header  
+## Resume-page Structure based on React+Node.js  
+#### on English language    
+### Header  
   *  Animation of constellations  
   *  Dont move with screen(no feature)    
   *  Right unfolding menu with animation  
   *  It consists of links leading to fragments / sections of content  
-## Content  
+### Content  
   *  Collection of icons with animation  
   *  Collection of tags  
   *  Timeline + blocks (text) of containers on the sides of the timeline  
@@ -15,5 +15,5 @@
   *  Block with containers (text + image)  
   *  Long horizontal block with photo and text  
   *  Block contacts - form on the left text + map | Block on the right-form of communication with the button  
-## Footer  
+### Footer  
   *  Copyright  
