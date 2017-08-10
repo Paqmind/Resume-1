@@ -43,4 +43,4 @@
 
 ## Notes
 
-* The same hover animations everywhere
+* The same hover animations everywhere  
