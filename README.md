@@ -1,19 +1,46 @@
-# Resume-page Structure based on React+Node.js  
-### on English language    
-## Header  
-  *  Animation of constellations  
-  *  Dont move with screen(no feature)    
-  *  Right unfolding menu with animation  
-  *  It consists of links leading to fragments / sections of content  
-## Content  
-  *  Collection of icons with animation  
-  *  Collection of tags  
-  *  Timeline + blocks (text) of containers on the sides of the timeline  
-  *  Section with containers (text) of 2 per line  
-  *  Timeline + 2 blocks (text)  
-  *  Menu  
-  *  Block with containers (text + image)  
-  *  Long horizontal block with photo and text  
-  *  Block contacts - form on the left text + map | Block on the right-form of communication with the button  
-## Footer  
-  *  Copyright  
+# Resume
+
+**Category:** SPA<br/>
+**Tools:** ReactJS + NodeJS
+**Style:** Google Matherial UI
+
+## Pages
+
+### Header  
+
+* Animation of "constellations" (~triangles)
+* Static (does not move with screen)
+* Right unfolding menu with animation  
+* Contains links to main Sections
+  
+### Home  
+
+* Hamburger Menu  
+* Cards / Panels
+* Social Icon set
+* Tags / labels (used as mini-headers?!)
+* Text blocks / typography
+* Skill sliders (with cards)
+* Timeline (with cards)
+* Gallery (~ Masonry)
+* Testimonials
+* Google map 
+* Feedback form
+
+### Projects Page
+
+* Big cards with tags, image and text
+
+### Project
+
+* Text
+* Comments list
+* Comments form
+
+### Footer  
+
+* Static (does not move with screen)
+
+## Notes
+
+* The same hover animations everywhere
